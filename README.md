@@ -1,4 +1,4 @@
-# Generative AI Bootcamp Projects 2025
+# Generative AI Projects 
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Python](https://img.shields.io/badge/python-3.7+-blue.svg)
